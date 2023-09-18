@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ferri\\onedrive\\dokumente\\unreal projects\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\toontanksgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ferri\\onedrive\\dokumente\\unreal projects\\toontanks\\intermediate\\build\\win64\\x64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\ferri\\onedrive\\dokumente\\unreal projects\\toontanks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "c:\\users\\ferri\\onedrive\\dokumente\\unreal projects\\toontanks\\source\\toontanks\\toontanksgamemode.h",
+            "a:\\epicgameslibary\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "a:\\epicgameslibary\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "a:\\epicgameslibary\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "a:\\epicgameslibary\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\ferri\\onedrive\\dokumente\\unreal projects\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\toontanksgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Maps/Main.umap",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Blueprints/Gamemode/BP_ToonTanksGameMode.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Blueprints/PlayerController/BP_ToonTanksPlayerController.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Maps/Main_BuiltData.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Blueprints/Widgets/WBP_EndGameWidget.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Blueprints/CameraShake/BP_HitCameraShake.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Blueprints/CameraShake/BP_DeathCameraShake.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/ComponentsActor.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Input/IMC_Tank.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Input/InputActions/IA_RotateTurret.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Input/InputActions/IA_Move.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/Input/InputActions/IA_Fire.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/ActionMapping/IA_Turn.uasset",
+				"C:/Users/ferri/OneDrive/Dokumente/Unreal Projects/ToonTanks/Content/ActionMapping/IA_RotateTurret.uasset"
+			]
+		}
+	]
+}
